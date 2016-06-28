@@ -1,8 +1,8 @@
- # Installation
+## Installation
  
  Checkout the application and run `npm install` from the terminal
  
- # Running the  Application
+## Running the  Application
  
  - Run `node index.js` from the terminal
  
